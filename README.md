@@ -24,7 +24,7 @@ We are currently developing high-end prototypes to showcase our capabilities:
 ### 🤝 Let's Collaborate
 Ready to elevate your brand's digital presence? We are available for freelance opportunities and long-term partnerships.
 
-- **Founder:** Sena Nur Özcan
+- **Founder:** [Sena Nur Özcan](https://github.com/SenaOzcn)
 - **Official Website:** [riverwebstudio.com](https://riverwebstudio.com)
 - **Contact:** info@riverwebstudio.com
 
